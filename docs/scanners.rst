@@ -26,18 +26,23 @@ Physical scanners
 +---------+----------------+-----+-----+-----+----------------+
 | Fujitsu | `ix500`_       | yes |     | yes | `eonist`_      |
 +---------+----------------+-----+-----+-----+----------------+
+| HP      | `9018e`_       |     |     | yes | `nahushrk`_    |
++---------+----------------+-----+-----+-----+----------------+
+
 
 .. _ADS-1500W: https://www.brother.ca/en/p/ads1500w
 .. _MFC-J6930DW: https://www.brother.ca/en/p/MFCJ6930DW
 .. _MFC-J5910DW: https://www.brother.co.uk/printers/inkjet-printers/mfcj5910dw
 .. _MFC-9142CDN: https://www.brother.co.uk/printers/laser-printers/mfc9140cdn
 .. _ix500: http://www.fujitsu.com/us/products/computing/peripheral/scanners/scansnap/ix500/
+.. _9018e: https://support.hp.com/us-en/product/hp-officejet-pro-9010-all-in-one-printer-series/23903057/model/2100184660
 
 .. _danielquinn: https://github.com/danielquinn
 .. _ayounggun: https://github.com/ayounggun
 .. _bmsleight: https://github.com/bmsleight
 .. _eonist: https://github.com/eonist
 .. _REOLDEV: https://github.com/REOLDEV
+.. _nahushrk: https://github.com/nahushrk
 
 Mobile phone software
 -----------------------
